@@ -1,7 +1,8 @@
 # sky-spectrum-viewer
 View high resolution (R~32000--45000) sky spectrum from UVEX (3140--10430A, Hanuschik 2003) and GIANO (9700--18000A, Oliva+2015).
 
-Links to these two papers are:
+Links to these two papers:
+
 Hanuschik 2003: https://ui.adsabs.harvard.edu/abs/2003A%26A...407.1157H/abstract
 
 Oliva+2015: https://ui.adsabs.harvard.edu/abs/2015A%26A...581A..47O/abstract

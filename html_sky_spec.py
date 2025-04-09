@@ -90,8 +90,8 @@ fig.update_layout(
     # yaxis_title="Flux (photons/s/cm²/Å/arcsec²)",
     title=dict(
         text=(
-            "Interactive Sky Spectrum Viewer<br>"
-            "(UVES: <a href="https://ui.adsabs.harvard.edu/abs/2003A%26A...407.1157H/abstract" target="_blank">Hanuschik 2003</a>; GIANO: <a href="https://ui.adsabs.harvard.edu/abs/2015A%26A...581A..47O/abstract" target="_blank">Oliva et al. 2015</a>)"
+            """Interactive Sky Spectrum Viewer<br>
+            "(UVES: <a href="https://ui.adsabs.harvard.edu/abs/2003A%26A...407.1157H/abstract" target="_blank">Hanuschik 2003</a>; GIANO: <a href="https://ui.adsabs.harvard.edu/abs/2015A%26A...581A..47O/abstract" target="_blank">Oliva et al. 2015</a>)"""
         ),
         x=0.5,
         xanchor="center",

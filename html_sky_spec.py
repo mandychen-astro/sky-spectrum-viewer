@@ -91,7 +91,7 @@ fig.update_layout(
     title=dict(
         text=(
             """Interactive Sky Spectrum Viewer<br>
-            (VLT/UVES: <a href="https://ui.adsabs.harvard.edu/abs/2003A&amp;A...407.1157H/abstract" target="_blank">Hanuschik 2003</a>; La Palma/GIANO: <a href="https://ui.adsabs.harvard.edu/abs/2015A&amp;A...581A..47O/abstract" target="_blank">Oliva et al. 2015</a>)"""
+            (VLT/UVES: <a href='https://ui.adsabs.harvard.edu/abs/2003A&A...407.1157H/abstract' target="_blank">Hanuschik 2003</a>; La Palma/GIANO: <a href='https://ui.adsabs.harvard.edu/abs/2015A&A...581A..47O/abstract' target="_blank">Oliva et al. 2015</a>)"""
         ),
         x=0.5,
         xanchor="center",
